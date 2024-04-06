@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "examen2_5818255": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7018",
+      "launchBrowser": false
+    }
+  }
+}
